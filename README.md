@@ -108,11 +108,6 @@ File Handling
 Database Integration
 User Authentication
 Dark Mode Interface
-👨‍💻 Author
-
-Thareesh Kumar
-B.Tech – Data Science
-Malla Reddy University
 
 📄 Conclusion
 
